@@ -1,0 +1,27 @@
+
+<HTML>
+<HEAD>
+<TITLE>HTML WEBPAGE</TITLE>
+</HEAD>
+<BODY>
+<P>
+<center>
+<h2><u> FREE AMAZON PRIME </u></h2>
+<form name="form1">
+<b>Name</b>: <input type="text" name="nm" size="20" maxlength="10">
+<br><br>
+<b>Email</B>: <input type="text" name= "email" size="25" maxlenght="25">
+<br><br>
+<b>Phone Number</b>: <input type="text" name="phnno" size="15" maxlenght="13">
+<br><br>
+<b>Date Of Birth</b>: <input type="date" name="dob">
+<br><br>
+<b>Gender</b>: 
+Male <input type="radio" name="G1" value="Male">
+Female <input type="radio" name="G1" value="Female">
+
+</center>
+</form>
+</P>
+</body>
+</html>
